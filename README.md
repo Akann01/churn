@@ -8,7 +8,7 @@ Predicts which e-commerce customers are likely to churn and shows the top reason
 
 ## Demo
 
-https://github.com/Akann01/churn/raw/main/dashboard-demo.mp4
+https://github.com/Akann01/churn/raw/main/dashboard_demo.mp4
 
 ## Dataset
 
