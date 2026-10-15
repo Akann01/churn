@@ -1,0 +1,135 @@
+customer_id,churn_probability,top_drivers,action,reason,subject,message,source
+5071,0.935,"[{""factor"": ""months as a customer"", ""value"": 1.0, ""impact"": 0.181}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.134}, {""factor"": ""days since last order"", ""value"": 1.0, ""impact"": 0.048}]",Resolve complaint and follow up,"The customer is new and recently raised a complaint, prompting a personalized follow‑up to address their concerns and build trust.",We’re Here to Help,"Hi {first_name},
+
+We noticed you’re new with us and recently shared a concern. We’d love to understand how we can improve your experience. Your feedback matters, and we’re committed to making things right.
+
+Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+338,0.925,"[{""factor"": ""months as a customer"", ""value"": 0.0, ""impact"": 0.169}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.133}, {""factor"": ""days since last order"", ""value"": 0.0, ""impact"": 0.077}]",Resolve complaint and follow up,"The customer recently raised a complaint and is brand new, so addressing their concern promptly can strengthen their early experience.",We’re Here to Help,"Hi {first_name},
+
+We noticed you reached out with a concern and that you’re just starting with us. We’d love to make sure everything is smooth for you. Please let us know how we can help.
+
+Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+3075,0.92,"[{""factor"": ""months as a customer"", ""value"": 1.0, ""impact"": 0.167}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.143}, {""factor"": ""days since last order"", ""value"": 1.0, ""impact"": 0.046}]",Targeted cashback or discount offer,"Because {first_name} is a new customer who recently raised a complaint, we want to show appreciation and address any concerns.",We’d Love to Make Things Right,"Hi {first_name},
+
+We noticed you’re new to our community and recently shared a concern with us. We truly value your feedback and want to ensure your experience is smooth and enjoyable. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+606,0.915,"[{""factor"": ""months as a customer"", ""value"": 0.0, ""impact"": 0.194}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.127}, {""factor"": ""days since last order"", ""value"": 0.0, ""impact"": 0.062}]",Targeted cashback or discount offer,"The customer is new and recently raised a complaint, indicating a need for reassurance and a positive experience",We’d Love to Make Things Right,"Hi {first_name},
+
+We noticed you’re a new member of our community and recently shared a concern. We truly value your feedback and want to ensure you feel supported. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+4958,0.91,"[{""factor"": ""months as a customer"", ""value"": 1.0, ""impact"": 0.201}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.149}, {""factor"": ""saved delivery addresses"", ""value"": 6.0, ""impact"": 0.026}]",Targeted cashback or discount offer,"The customer is new and recently raised a complaint, indicating a need for a positive experience boost.",We’d Love to Make Things Right,"Hi {first_name},
+
+We noticed you’re new with us and recently shared a concern. We’d love to help make your experience better. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+4186,0.91,"[{""factor"": ""months as a customer"", ""value"": 1.0, ""impact"": 0.224}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.131}, {""factor"": ""satisfaction score (1-5)"", ""value"": 5.0, ""impact"": 0.03}]",Targeted cashback or discount offer,"The customer is new and recently raised a complaint, prompting a personalized incentive to enhance their experience.",We’d Love Your Feedback,"Hi {first_name},
+
+We noticed you’re new with us and recently shared a concern. We’re eager to make your experience better and would love to hear more about how we can improve.
+
+Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+5167,0.905,"[{""factor"": ""months as a customer"", ""value"": 1.0, ""impact"": 0.252}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.135}, {""factor"": ""orders placed"", ""value"": 8.0, ""impact"": 0.038}]",Resolve complaint and follow up,"The customer is new and recently raised a complaint, so addressing their concerns promptly will help build trust.",We’re Here to Help,"Hi {first_name},
+
+I noticed you’re new to us and recently shared a concern. We’d love to make sure everything is right for you. Please let us know how we can improve your experience.
+
+Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+786,0.905,"[{""factor"": ""months as a customer"", ""value"": 0.0, ""impact"": 0.149}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.122}, {""factor"": ""days since last order"", ""value"": 0.0, ""impact"": 0.072}]",Resolve complaint and follow up,"The customer recently raised a complaint and is brand new, so a personal follow‑up can address their concerns and build early loyalty.",We’re Here to Help,"Hi {first_name},
+
+I noticed you recently shared a concern and that you’re new to us. We’d love to understand how we can improve your experience and ensure you feel welcomed. Your feedback matters, and we’re ready to help.
+
+Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+2237,0.9,"[{""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.143}, {""factor"": ""average cashback received"", ""value"": 118.6, ""impact"": 0.11}, {""factor"": ""days since last order"", ""value"": 0.0, ""impact"": 0.103}]",Resolve complaint and follow up,We chose to address the recent complaint to support the customer’s experience and reduce churn risk.,We’re Here to Help,"Hi {first_name},
+
+I noticed you recently raised a concern and I wanted to check in to see how we can help. Your feedback is important to us, and we’re eager to make things right. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+2342,0.895,"[{""factor"": ""months as a customer"", ""value"": 0.0, ""impact"": 0.209}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.153}, {""factor"": ""orders placed"", ""value"": 7.0, ""impact"": 0.018}]",Targeted cashback or discount offer,"The customer is brand new and recently raised a complaint, indicating a need for reassurance and a positive experience to encourage continued engagement.",We’d Love to Make Things Right,"Hi {first_name},
+
+I noticed you’re new to us and recently shared a concern. We truly value your feedback and want to ensure your experience improves. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+5415,0.88,"[{""factor"": ""months as a customer"", ""value"": 1.0, ""impact"": 0.224}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.113}, {""factor"": ""city tier"", ""value"": 3.0, ""impact"": 0.044}]",Targeted cashback or discount offer,"Because {first_name} is a new customer and recently raised a complaint, we want to show appreciation and address concerns with a special offer.",We’d Love to Make Things Right,"Hi {first_name},
+
+We noticed you’re new to us and recently shared a concern. We’d love to make your experience better and show our appreciation for giving us a chance. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+1574,0.865,"[{""factor"": ""months as a customer"", ""value"": 0.0, ""impact"": 0.181}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.151}, {""factor"": ""days since last order"", ""value"": 1.0, ""impact"": 0.056}]",Resolve complaint and follow up,"The customer is new and recently raised a complaint, so a personalized follow‑up will address their concerns and show care.",We’re Here to Help,"Hi {first_name},
+
+I noticed you reached out recently and wanted to check in to see how we can make things right for you. Your feedback is very important to us, and we’re ready to help with any issue you experienced.
+
+Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+2787,0.86,"[{""factor"": ""months as a customer"", ""value"": 0.0, ""impact"": 0.236}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.156}, {""factor"": ""saved delivery addresses"", ""value"": 10.0, ""impact"": 0.077}]",Targeted cashback or discount offer,"Because {first_name} is a new customer who recently raised a complaint, we want to show appreciation and address any concerns.",We’d Love to Hear From You,"Hi {first_name},
+
+We noticed you’re a new member of our community and recently shared a concern with us. We truly value your feedback and want to make sure your experience is smooth and enjoyable. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+563,0.86,"[{""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.158}, {""factor"": ""days since last order"", ""value"": 0.0, ""impact"": 0.081}, {""factor"": ""average cashback received"", ""value"": 121.2, ""impact"": 0.067}]",Resolve complaint and follow up,The recent complaint is the primary driver of their churn risk.,We’re Here to Help,"Hi {first_name},
+
+We noticed you recently raised a concern and we’d love to understand how we can improve your experience. Your feedback matters greatly to us, and we’re committed to making things right.
+
+Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+5417,0.855,"[{""factor"": ""months as a customer"", ""value"": 1.0, ""impact"": 0.295}, {""factor"": ""days since last order"", ""value"": 1.0, ""impact"": 0.046}, {""factor"": ""city tier"", ""value"": 3.0, ""impact"": 0.041}]",Loyalty perk or early access,"The customer is brand new, so a loyalty perk could encourage continued engagement.",Welcome! Unlock an exclusive perk,"Hi {first_name},
+
+We’re excited to have you with us! As a new member, you’re eligible for a special loyalty perk that we’d love to share. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+2832,0.855,"[{""factor"": ""months as a customer"", ""value"": 1.0, ""impact"": 0.199}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.146}, {""factor"": ""city tier"", ""value"": 3.0, ""impact"": 0.046}]",Targeted cashback or discount offer,Offer a discount to a new customer who recently raised a complaint to encourage positive experience,We’d Love Your Feedback,"Hi {first_name},
+
+We noticed you’re new to our community and recently shared a concern. We’d love to make your experience better. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+1111,0.85,"[{""factor"": ""months as a customer"", ""value"": 0.0, ""impact"": 0.278}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.096}, {""factor"": ""saved delivery addresses"", ""value"": 6.0, ""impact"": 0.066}]",Targeted cashback or discount offer,"Because {first_name} is a new customer who recently raised a complaint, a special offer may help re-engage them.",We’d Love to Hear From You,"Hi {first_name},
+
+We noticed you recently shared a concern with us and that you’re just getting started with our brand. We’d love to hear more about your experience and help make things right. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+5217,0.85,"[{""factor"": ""months as a customer"", ""value"": 1.0, ""impact"": 0.265}, {""factor"": ""saved delivery addresses"", ""value"": 7.0, ""impact"": 0.061}, {""factor"": ""days since last order"", ""value"": 1.0, ""impact"": 0.037}]",Loyalty perk or early access,"Because {first_name} is a new customer with many saved addresses, we want to welcome them with a special perk.",Welcome to Our Community,"Hi {first_name},
+
+We’re excited to have you with us! As a new member, we’d love to offer you a special perk to help you get started. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+1042,0.85,"[{""factor"": ""months as a customer"", ""value"": 0.0, ""impact"": 0.277}, {""factor"": ""raised a complaint recently (1 = yes)"", ""value"": 1.0, ""impact"": 0.128}, {""factor"": ""saved delivery addresses"", ""value"": 7.0, ""impact"": 0.087}]",Targeted cashback or discount offer,"Because {first_name} is a new customer who recently raised a complaint, offering a special incentive can help address concerns and build loyalty.",We’d love to hear from you,"Hi {first_name},
+
+We noticed you’re a new member of our community and recently shared a concern with us. We’d love to hear more about your experience and help make things right. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
+4912,0.85,"[{""factor"": ""months as a customer"", ""value"": 1.0, ""impact"": 0.23}, {""factor"": ""satisfaction score (1-5)"", ""value"": 5.0, ""impact"": 0.052}, {""factor"": ""orders placed"", ""value"": 16.0, ""impact"": 0.044}]",Loyalty perk or early access,Offer a loyalty perk to welcome a new customer,Welcome to Our Community—Enjoy a Special Perk,"Hi {first_name},
+
+We’re thrilled you’ve joined us and hope you’re enjoying your experience so far. As a thank you for being a new member, we’d love to give you a special perk. Reply to this email to receive a special offer.
+
+Warm regards,
+The Support Team",llm
